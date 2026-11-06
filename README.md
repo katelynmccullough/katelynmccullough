@@ -18,21 +18,14 @@ Building data-driven solutions, exploring applied AI, and turning complex questi
 
 ---
 
+
 ## About Me
 
-I'm a Data Science student at **Florida Polytechnic University**, pursuing a B.S. in Data Science with an interest in machine learning, statistical modeling, data engineering, and applied mathematics.
+I'm a **Data Science student at Florida Polytechnic University** (B.S., expected May 2028), interested in machine learning, statistical modeling, and data engineering.
 
-My work spans predictive analytics, research, software development, and business process automation. I enjoy working through the entire data science lifecycle, from messy datasets and exploratory analysis to modeling, interpretation, and communicating results.
+At **Publix**, I develop tools that improve facilities workflows and project information management. My independent work spans predictive analytics, applied AI, and technical communication.
 
-Outside the classroom, I work in facilities technology at **Publix**, where I've developed tools to improve project information management and streamline internal workflows.
-
-I'm especially interested in projects where data science intersects with technology, business, sports, and human behavior.
-
-**Currently:**
-- Pursuing my B.S. in Data Science (May 2028)
-- Studying econometrics, algorithms, cloud infrastructure, and differential equations
-- Exploring AI ethics, human-AI interaction, and statistical learning
-- Seeking Summer 2027 opportunities in data science, data engineering, and analytics
+**Currently:** Studying econometrics, algorithms, and cloud infrastructure; exploring AI ethics and statistical learning; and seeking **Summer 2027 data science, data engineering, and analytics internships**.
 
 ---
 
@@ -71,19 +64,23 @@ I'm especially interested in projects where data science intersects with technol
 
 ## Featured Work
 
+
 ### 01 / Global Terrorism Data Analysis
 **Machine Learning · Statistical Modeling · Geographic Analysis**
 
 [Repository](https://github.com/katelynmccullough/global-terrorism-data-analysis) · [Full Analysis Report](https://katelynmccullough.github.io/global-terrorism-data-analysis/)
 
-An exploratory and predictive analysis of more than **200,000 historical terrorism incidents**, examining patterns in attack characteristics, geography, and recorded outcomes.
+Analyzed **209,706 historical terrorism incidents (1970–2020)** using supervised classification and geographic clustering.
 
-- Applied Random Forest, XGBoost, and Logistic Regression for predictive modeling.
-- Investigated geographic variation and temporal trends.
-- Used clustering and statistical learning techniques to explore underlying patterns.
-- Developed a published analysis report documenting methodology and findings.
+- Compared Logistic Regression, Random Forest, Balanced Random Forest, and XGBoost using a **70/30 train-test split**.
+- Improved **minority-class recall from 10.5% to 42.1%** through up-sampling in a Balanced Random Forest, with **82.95% overall accuracy** and **65.2% balanced accuracy**.
+- Demonstrated why overall accuracy can be misleading on imbalanced data: Logistic Regression achieved **88.35% accuracy** but **0% minority-class recall**.
+- Explored spatial patterns with K-Means clustering and documented findings in a published analysis report.
+
+*Metrics are reported from the original academic analysis and have not been independently revalidated; XGBoost results require further verification.*
 
 `R` `Tidyverse` `ggplot2` `Random Forest` `XGBoost` `Statistical Learning`
+
 
 ### 02 / Katelyn Codes
 **Web Development · Data Science Education · Technical Content**
