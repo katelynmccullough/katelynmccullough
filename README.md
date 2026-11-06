@@ -1,110 +1,168 @@
 
-# Hi, I'm Katelyn!
+<div align="center">
 
-**Data Science Student | Research & Analytics | Software Development**
+# KATELYN MCCULLOUGH
 
-I'm a Data Science student at Florida Polytechnic University with interests in machine learning, statistical modeling, data engineering, and applied AI.
+**Data Science · Machine Learning · Analytics · Software Development**
 
-I enjoy building projects that connect technical problem-solving with real-world applications, from predictive modeling and data visualization to workflow automation and software development.
+Data Science @ Florida Polytechnic University  
+Facilities Technical Specialist @ Publix
 
-Currently, I'm expanding my experience through academic research, independent projects, and my work in facilities technology at Publix.
+Building data-driven solutions, exploring applied AI, and turning complex questions into meaningful insights.
 
----
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://katelynmccullough.github.io/katelyncodes/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katelynmccullough09)
+[![Academic GitHub](https://img.shields.io/badge/ACADEMIC_GITHUB-8B1E2D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kmccullough7245)
 
-### About Me
-
-- **Education:** B.S. Data Science, Florida Polytechnic University (Expected May 2028)
-- **Additional Education:** A.S. Accounting Technology, Polk State College
-- **Current Role:** Facilities Technical Specialist – Student at Publix
-- **Interests:** Machine Learning, Data Engineering, Applied Statistics, AI Ethics, and Sports Analytics
-- **Currently Learning:** Advanced Algorithms, Econometrics, Cloud Infrastructure, and Applied Mathematics
-- **Open To:** Summer 2027 internships in Data Science, Data Engineering, Analytics, and Machine Learning
+</div>
 
 ---
 
-### Technical Skills
+## About Me
 
-**Programming & Query Languages**
+I'm a Data Science student at **Florida Polytechnic University**, pursuing a B.S. in Data Science with an interest in machine learning, statistical modeling, data engineering, and applied mathematics.
 
-Python · R · SQL · C++ · MATLAB
+My work spans predictive analytics, research, software development, and business process automation. I enjoy working through the entire data science lifecycle, from messy datasets and exploratory analysis to modeling, interpretation, and communicating results.
 
-**Data Science & Machine Learning**
+Outside the classroom, I work in facilities technology at **Publix**, where I've developed tools to improve project information management and streamline internal workflows.
 
-Pandas · NumPy · Scikit-learn · Statistical Modeling · Regression Analysis · Classification · Clustering · Data Visualization
+I'm especially interested in projects where data science intersects with technology, business, sports, and human behavior.
 
-**Development & Cloud**
-
-Git · GitHub · AWS · VS Code · Jupyter Notebook · RStudio
-
-**Business Intelligence & Automation**
-
-Power BI · Excel · Power Apps · Power Automate · SharePoint · Dataverse
+**Currently:**
+- Pursuing my B.S. in Data Science (May 2028)
+- Studying econometrics, algorithms, cloud infrastructure, and differential equations
+- Exploring AI ethics, human-AI interaction, and statistical learning
+- Seeking Summer 2027 opportunities in data science, data engineering, and analytics
 
 ---
 
-### Featured Projects
+## Technical Stack
 
-#### [Global Terrorism Data Analysis](https://github.com/katelynmccullough/global-terrorism-data-analysis)
+<div align="center">
 
-Exploratory and predictive analysis of more than 200,000 historical terrorism incidents using statistical learning and geographic analysis.
+**Programming & Data**
 
-- Developed classification models using Random Forest, XGBoost, and Logistic Regression.
-- Explored geographic and temporal patterns in terrorism data.
-- Applied clustering and statistical techniques to identify underlying patterns.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
 
-**Tech:** R, Tidyverse, ggplot2, caret, Machine Learning
+**Machine Learning & Analytics**
 
-[View Interactive Analysis Report](https://katelynmccullough.github.io/global-terrorism-data-analysis/)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-#### [Katelyn Codes](https://github.com/katelynmccullough/katelyncodes)
+**Development, Cloud & Automation**
 
-A personal technology and data science platform documenting projects, research, programming experiments, and technical learning.
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
 
-- Developing a resource library for data science, programming, and AI.
-- Sharing research insights and technical projects.
-- Building a content platform focused on making technical subjects more accessible.
-
-**Tech:** Astro, JavaScript, HTML, CSS, GitHub Pages
-
-[Visit Katelyn Codes](https://katelynmccullough.github.io/katelyncodes/)
-
-#### [Personal Portfolio](https://github.com/katelynmccullough/katelynmccullough-portfolio)
-
-A portfolio website highlighting my technical experience, academic background, projects, and professional development.
-
-**Focus:** Web Development, Portfolio Design, Project Documentation
-
----
-
-### Research Interests
-
-I'm particularly interested in the intersection of data science, machine learning, and the social implications of emerging technologies.
-
-Current areas of exploration include:
-
-- **AI Ethics & Human-AI Interaction:** Studying how generative AI influences narrative relationships, user agency, and patterns of interaction.
-- **Statistical Learning:** Applying predictive modeling and statistical inference to real-world datasets.
-- **Econometrics:** Investigating relationships in observational data using regression, matching, and causal inference methods.
-- **Sports Analytics:** Exploring how data can support performance analysis and strategic decision-making.
+</div>
 
 ---
 
-### Academic Development
+## Featured Work
 
-In addition to my independent and professional projects, I maintain a separate GitHub account for university coursework and technical practice at Florida Polytechnic University.
+### 01 / Global Terrorism Data Analysis
+**Machine Learning · Statistical Modeling · Geographic Analysis**
 
-My academic repositories include implementations of data structures, algorithms, and object-oriented programming concepts in C++.
+[Repository](https://github.com/katelynmccullough/global-terrorism-data-analysis) · [Full Analysis Report](https://katelynmccullough.github.io/global-terrorism-data-analysis/)
 
-**[View My Academic GitHub — @kmccullough7245](https://github.com/kmccullough7245)**
+An exploratory and predictive analysis of more than **200,000 historical terrorism incidents**, examining patterns in attack characteristics, geography, and recorded outcomes.
+
+- Applied Random Forest, XGBoost, and Logistic Regression for predictive modeling.
+- Investigated geographic variation and temporal trends.
+- Used clustering and statistical learning techniques to explore underlying patterns.
+- Developed a published analysis report documenting methodology and findings.
+
+`R` `Tidyverse` `ggplot2` `Random Forest` `XGBoost` `Statistical Learning`
+
+### 02 / Katelyn Codes
+**Web Development · Data Science Education · Technical Content**
+
+[Repository](https://github.com/katelynmccullough/katelyncodes) · [Live Website](https://katelynmccullough.github.io/katelyncodes/)
+
+A personal technology platform where I document research, build projects, and explore data science, artificial intelligence, and software development.
+
+- Built a multi-page website using Astro and GitHub Pages.
+- Developed a structured resource library for technical projects and educational materials.
+- Created a platform connecting research, programming experiments, and technical communication.
+
+`Astro` `JavaScript` `HTML` `CSS` `GitHub Pages`
+
+### 03 / Personal Portfolio
+**Web Development · Technical Documentation**
+
+[Repository](https://github.com/katelynmccullough/katelynmccullough-portfolio)
+
+A portfolio project showcasing my background in data science, technical experience, and independent work.
+
+`Web Development` `GitHub` `Project Documentation`
 
 ---
 
-### Connect With Me
+## Research & Current Explorations
 
-- **Portfolio:** [Katelyn Codes](https://katelynmccullough.github.io/katelyncodes/)
-- **LinkedIn:** [linkedin.com/in/katelynmccullough09](https://www.linkedin.com/in/katelynmccullough09)
-- **Academic GitHub:** [github.com/kmccullough7245](https://github.com/kmccullough7245)
+My academic interests focus on applying quantitative methods to complex real-world questions.
+
+| Area | Current Focus |
+|:---|:---|
+| **AI Ethics** | Generative AI, narrative agency, relational behaviors, and human-AI interaction |
+| **Econometrics** | Regression modeling, observational data, matching methods, and causal inference |
+| **Machine Learning** | Predictive modeling, classification, clustering, and model interpretation |
+| **Sports Analytics** | Performance metrics, statistical modeling, and data-driven decision-making |
+| **Data Engineering** | Data pipelines, cloud infrastructure, and reliable data systems |
+
+I'm particularly interested in combining technical research with accessible communication, making complex analyses understandable without losing their statistical depth.
 
 ---
 
-*Always learning, building, and finding new questions to answer with data.*
+## Professional Experience
+
+### Publix Super Markets
+**Facilities Technical Specialist – Student**  
+*Previously: Facilities Technical Specialist Intern*
+
+I work on technology-driven solutions supporting facilities operations, project coordination, and internal information management.
+
+Selected work includes:
+
+- Developing a **Store Remodel & Project Reference Tool** using Power Apps, Dataverse, SharePoint, and Excel.
+- Building a **Revision Request Workflow** using Power Apps and Power Automate.
+- Reconciling project information across multiple data sources to improve consistency and usability.
+
+**Technologies:** Power Apps, Power Automate, Dataverse, SharePoint, Excel, Power BI
+
+---
+
+## Academic Development
+
+I maintain a separate GitHub account for university coursework, programming assignments, and technical practice.
+
+My academic work includes implementations of data structures and algorithms in C++, object-oriented programming, and computational problem-solving.
+
+**[Explore Academic Repositories — @kmccullough7245](https://github.com/kmccullough7245)**
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+I'm always interested in opportunities to collaborate, explore interesting datasets, and build meaningful technology.
+
+[LinkedIn](https://www.linkedin.com/in/katelynmccullough09) · [Katelyn Codes](https://katelynmccullough.github.io/katelyncodes/) · [Academic GitHub](https://github.com/kmccullough7245)
+
+---
+
+<sub>Data science is about asking better questions, not just building better models.</sub>
+
+</div>
